@@ -1,0 +1,4 @@
+image_path,question,answer
+samples/apple.jpg,What fruit is this?,apple
+samples/street.jpg,How many people are there?,2
+samples/receipt.jpg,What is the total price?,12.50
